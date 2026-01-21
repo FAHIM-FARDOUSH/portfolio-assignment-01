@@ -23,6 +23,11 @@
     list-style: none;
 }
 
+.nav-links a:hover{
+    /* background-color: greenyellow; */
+    color: red;
+}
+
 .nav-links a{
         text-decoration: none;
 }
